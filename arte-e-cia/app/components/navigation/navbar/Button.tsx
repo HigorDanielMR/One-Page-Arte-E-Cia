@@ -1,9 +1,6 @@
-import { button } from "@nextui-org/react";
-
 const Button = () => {
     return (
-        <button />
+      <button className="h-12 rounded-lg bg-white font-bold px-5">Sign In</button>
     );
-};
-
-export default Button;
+  };
+  export default Button;
