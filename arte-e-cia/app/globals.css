@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 
 #home {
     background: #000000;
+=======
+*{
+    background: #000;
+>>>>>>> 2e2481ea93eed0812e3b3d38cd5af56641f8e0b4
     color: #fff;
 }
