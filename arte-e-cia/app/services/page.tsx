@@ -1,7 +1,15 @@
 import React from "react";
+import images from "./index_images";
+import Carrossel from ".";
 
-const Services = () => {
-  return <div>Services</div>;
+const Produtos = () => {
+  return (
+    <>
+      <div id="carrossel">
+        <Carrossel  data={images}/>
+      </div>
+    </>
+  );
 };
 
-export default Services;
+export default Produtos;

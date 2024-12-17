@@ -11,7 +11,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        'black-800': '#000'
+        'black': '#000'
       },
     },
   },

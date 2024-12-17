@@ -1,7 +1,7 @@
 import React from "react";
 
-const About = () => {
-  return <div>About</div>;
+const SobreNos = () => {
+  return <div>Sobre Nos</div>;
 };
 
-export default About;
+export default SobreNos;
