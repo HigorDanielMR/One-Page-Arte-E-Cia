@@ -11,9 +11,6 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-<<<<<<< HEAD
-        'black': '#000'
-=======
         transparent: 'transparent',
         current: 'currentColor',
         'black': '#000',
@@ -26,7 +23,6 @@ export default {
         'bubble-gum': '#ff77e9',
         'bermuda': '#78dcca',
         'gray': '#111827'
->>>>>>> 2e2481ea93eed0812e3b3d38cd5af56641f8e0b4
       },
     },
   },
