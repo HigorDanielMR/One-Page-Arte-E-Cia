@@ -4,4 +4,9 @@
 
 #home {
     background: #000000;
+    color: aliceblue;
+}
+
+ li:hover {
+    color: rgb(255, 4, 4);
 }

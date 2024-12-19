@@ -1,12 +1,11 @@
 import React from "react";
-import images from "./index_images";
-import Carrossel from ".";
+import Teste from ".";
 
 const Produtos = () => {
   return (
     <>
       <div id="carrossel">
-        <Carrossel  data={images}/>
+        <Teste/>
       </div>
     </>
   );
